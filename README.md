@@ -15,3 +15,6 @@ paho
 math
 grovepi
 numpy
+
+This is a link to my video demo as well as some screenshots to show the outputs:
+https://drive.google.com/drive/folders/1BLbJRGc9eBRbNKpuGxzJl-bbszv6kjcK?usp=share_link
